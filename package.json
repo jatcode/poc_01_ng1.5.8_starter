@@ -1,0 +1,14 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "Webpack Step by Step",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "jat",
+  "license": "MIT"
+}
