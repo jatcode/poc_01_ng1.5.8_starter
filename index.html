@@ -4,9 +4,13 @@
 		<meta charset="utf-8">
 		<title>STATIC TITLE</title>
 	</head>
-	<body>
-		<root class="root">
-			<h3>Loading...</h3>
-		</root>
+	<body >
+		<b>Hero</b><br>
+		<div ng-controller="MainCtrl as ctrl">
+			<pb  hero="ctrl.hero" class="pb">
+				<h3>Loading...</h3>
+			</pb>
+		</div>
+		<script src="bundle.js" charset="utf-8"></script>
 	</body>
 </html>

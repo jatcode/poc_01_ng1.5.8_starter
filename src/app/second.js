@@ -1,0 +1,1 @@
+module.exports = "hello hola mundo from second";
